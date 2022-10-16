@@ -1,0 +1,40 @@
+<?php
+$datosv= array(
+        1=>array(
+            'link' => 'https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcoaliciontrinacional.seccionmexicana%2Fvideos%2F622891729250034%2F&show_text=false&width=560&t=0',
+            'categoria' => 'Conferencias',
+            'fecha' => '2022-09-10',
+            'titulo' => 'Tema V. La Coalición Trinacional en Defensa de la educación Pública, a 30 años de su fundación: Retos y tareas. ',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contenido' => '- Conclusiones, presentación de relatorías <br>  - Propuestas hacia la 15 Conferencia Trinacional <br> Segundo día de la Conferencia Nacional de la sección mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
+            'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=https://fb.watch/fHljTYBcwI/',
+            'twitter' => 'https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252Ffb.watch%252FfHljQYUgUw%252F%26text%3DConferencia%2520Nacional%252010%2520de%2520septiembre%26via%3DFacebookWatch%26fbclid%3DIwAR133VF8qxwHguxvrewpvqrHCS6ZseV2AG6EjvBtzsxMmSF6Lxi3_6VRoZk&h=AT1oP-pClMAhaXAk4uUmvcyCicnlmuZ_cA40w4EnyL8Ix4-mCZIVLrTJKAEZJRgBbWvswmSU4OQbrrj4de4P3FhoXA_NgOzr7U7RZhJgljgtrPdQhNthmGH2ccziO4t956UigvcIC_1GjcRuCgcUpQ&__tn__=J]-R&c[0]=AT2x-Dgzki-A8eRpuu1_TFmtZIhRgTpM0QEZvWH8EUe_X7BWVKLL930qQ3fulNiYWdnfmyY6vZHyZaFiTa2wV1aheMPJJzaOHU66mf16f4svYL9JXhq5aZhojNec-TWbH7_tVqwcV0y7snmLGxwUHb71Bro8B2QRbna1ZIX9Z349MaXQhTAicAP5ioa-yvKaRL2ojP_zitD7TenfzBg',
+            'whatsapp' => 'https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Ftext%3Dhttps%253A%252F%252Ffb.watch%252FfHljTtEFY4%252F%26fbclid%3DIwAR0d5kfD2POHoz6Y0SMnSt6f0zG7Iit7QPg0OTVP8H5Aj6Gkfa3HrT56uik&h=AT1oP-pClMAhaXAk4uUmvcyCicnlmuZ_cA40w4EnyL8Ix4-mCZIVLrTJKAEZJRgBbWvswmSU4OQbrrj4de4P3FhoXA_NgOzr7U7RZhJgljgtrPdQhNthmGH2ccziO4t956UigvcIC_1GjcRuCgcUpQ&__tn__=J]-R&c[0]=AT2x-Dgzki-A8eRpuu1_TFmtZIhRgTpM0QEZvWH8EUe_X7BWVKLL930qQ3fulNiYWdnfmyY6vZHyZaFiTa2wV1aheMPJJzaOHU66mf16f4svYL9JXhq5aZhojNec-TWbH7_tVqwcV0y7snmLGxwUHb71Bro8B2QRbna1ZIX9Z349MaXQhTAicAP5ioa-yvKaRL2ojP_zitD7TenfzBg',
+        ),
+        2=>array(
+            'link' => 'https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcoaliciontrinacional.seccionmexicana%2Fvideos%2F656732975576417%2F&show_text=false&width=560&t=0',
+            'categoria' => 'Conferencias',
+            'fecha' => '2022-09-10',
+            'titulo' => 'Tema III.- La reacción comunitaria: propuestas desde las comunidades educativas. (Proyectos alternativos) académicas (estudiantes, profesores).',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contenido' => '- Experiencia Escuelas Integrales. Sección XVIII <br> - Experiencia PTEO. Sección XXII <br> - Experiencia Veracruz. Colectivo Totlalto Yoltok',
+            'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=https://fb.watch/fHmS4XR6FW/',
+            'twitter' => 'https://twitter.com/intent/tweet?url=https%3A%2F%2Ffb.watch%2FfHm_oy29U6%2F&text=Conferencia%20Nacional&via=FacebookWatch&fbclid=IwAR1zBy8iksIbBLwm4B6ZW3kxp4teGJ5ciuQbfTgKgwdQJODlAB3VI_FEzVc',
+            'whatsapp' => 'https://api.whatsapp.com/send?text=https%3A%2F%2Ffb.watch%2FfHm_rkn3yU%2F&fbclid=IwAR3KnbhRwQSraJGKs6tgrLDhf-QyBAy9BEKkxYfyqfjSbxe7OIjbqYKsqpw',
+        ),
+        3=>array(
+            'link' => 'https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcoaliciontrinacional.seccionmexicana%2Fvideos%2F435603585064145%2F&show_text=false&width=560&t=0',
+            'categoria' => 'Conferencias',
+            'fecha' => '2022-09-10',
+            'titulo' => 'Tema II. Nos dimos cuenta de que no estábamos preparados; Las medidas del gobierno en la pandemia de COVID. Evaluación de políticas gubernamentales y de acciones de las comunidades académicas (estudia',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contenido' => '- Evaluación de políticas educativas. Sara Unda. Profesora FES Zaragoza UNAM <br> - Acciones desde las comunidades. MMPV',
+            'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=https://fb.watch/fHn20qoB1c/',
+            'twitter' => 'https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252Ffb.watch%252FfHn8eDkUKX%252F%26text%3Dconferencia%2520nacional%26via%3DFacebookWatch%26fbclid%3DIwAR1Jr9b3O2ITH5-lxaIpVMvd8UcDEnWKPJGA1VJYjNrkbvRI-3OoHtrdeBQ&h=AT1oP-pClMAhaXAk4uUmvcyCicnlmuZ_cA40w4EnyL8Ix4-mCZIVLrTJKAEZJRgBbWvswmSU4OQbrrj4de4P3FhoXA_NgOzr7U7RZhJgljgtrPdQhNthmGH2ccziO4t956UigvcIC_1GjcRuCgcUpQ&__tn__=J]-R&c[0]=AT1LkWga-gInoQd9Fc6qFAo98fEDDjiQHQX50AcL3xrX1pdWK1dJlF2m07611XR0vaUWUuvgCSE7AWTwaEXSLTc39uaWelURm1DTGIjQcMztsp3W2siyD8kO-vjvXwIPSKP-8S4yJI3qiIWvHbyV_9I8MgcihWq9D7wo2HSYp198DFK48B3fmct24E0ZyYYRO0RYILXkG-5IakeL0AQ',
+            'whatsapp' => 'https://api.whatsapp.com/send?text=https%3A%2F%2Ffb.watch%2FfHn8fD_UW0%2F&fbclid=IwAR3Jrcjw4jJcv43dLwCGdxHg0tzLzslnuW-MJCg2DYk1vJtHf6ocQ-v5j6M',
+        ),
+)
+?>
