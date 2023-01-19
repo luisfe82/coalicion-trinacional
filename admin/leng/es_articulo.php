@@ -2,6 +2,129 @@
 $articulo= array(
         1=>array(
             'id' => '1',
+            'fecha' => '2022-11-09',
+            'categoria' => 'Acciones',
+            'titulo' => 'Huelga de maestros y maestras en Ontario, Canadá.',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Me complace brindarles una actualizaci&oacute;n sobre la situaci&oacute;n en Ontario, Canad&aacute;, con respecto a la protesta pol&iacute;tica de nuestros 55.000 compa&ntilde;eras y compa&ntilde;eros trabajadores de la educaci&oacute;n en el Sindicato Canadiense de Empleados P&uacute;blicos (CUPE).',
+            'contlargo' => '<p style="text-align: justify;"><span>&nbsp; &nbsp; &nbsp;Me complace brindarles una actualizaci&oacute;n sobre la situaci&oacute;n en Ontario, Canad&aacute;, con respecto a la protesta pol&iacute;tica de nuestros 55.000 compa&ntilde;eras y compa&ntilde;eros trabajadores de la educaci&oacute;n en el Sindicato Canadiense de Empleados P&uacute;blicos (CUPE). Estos miembros de CUPE incluyen asistentes educativos, custodios, trabajadores con infantes y ni&ntilde;os, personal de oficina, t&eacute;cnicos, pat&oacute;logos del habla y lenguaje, </span><span><a tabindex="-1"></a></span><span>monitores de cafeter&iacute;a y muchos otros que conforman el equipo educativo.</span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&id=1DN_pnu6cIldo4SobYqfg0DjwkiPSEbl8" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; &nbsp;Como informamos la semana pasada, el gobierno aprob&oacute; una ley, conocida como &ldquo;Proyecto de Ley 28 - Ley para Mantener a los Estudiantes en Clase&rdquo;, que impuso unilateralmente un contrato a los miembros de CUPE, les quit&oacute; el derecho a la huelga e invoc&oacute; la cl&aacute;usula no obstante, un poder constitucional que permite que los gobierno anule partes de nuestra Carta de Derechos y Libertades por un per&iacute;odo de cinco a&ntilde;os. A pesar de esta medida, CUPE realiz&oacute; una protesta pol&iacute;tica el viernes y nuevamente el lunes. CUPE estaba en una posici&oacute;n de huelga LEGAL hasta que el gobierno aprob&oacute; la Ley.</span></p><p style="text-align: justify;"><span>&nbsp; &nbsp;Ayer por la ma&ntilde;ana, el Primer Ministro de Ontario, Doug Ford, y el Ministro de Educaci&oacute;n, Stephen Lecce, ofrecieron una conferencia de prensa. Anunciaron que DEROGAR&Iacute;AN el Proyecto de Ley 28 si CUPE acced&iacute;a a poner fin a su huelga y volver a la mesa de negociaci&oacute;n. El primer ministro enfrentaba una reacci&oacute;n fuerte del p&uacute;blico y los sindicatos de toda la provincia de Ontario y de todo Canad&aacute; hac&iacute;an una frente com&uacute;n para denunciar el proyecto de ley 28 y la llamada para una huelga general por parte de los sindicatos del sector p&uacute;blico y privado crec&iacute;a. CUPE obtuvo la promesa del primer ministro de Ontario de derogar el proyecto de ley 28 por escrito y m&aacute;s de 20 sindicatos del sector p&uacute;blico y privado se unieron en una conferencia de prensa m&aacute;s tarde en la ma&ntilde;ana para decir que regresar&iacute;an al trabajo y a la mesa de negociaciones.</span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&amp;id=1hFoehTERE4cVMtWN5g2Jn_DEnf9KCDSv" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; El intento de mano dura del gobierno de Ontario de forzar un contrato y eliminar el derecho a la huelga de los trabajadores de CUPE fracas&oacute;. &iexcl;Mostr&oacute; a todos los gobiernos de Canad&aacute; que cuando atacas a uno de nosotros, nos atacas a todos! Predomin&oacute; el poder de la solidaridad obrera. Sin embargo, nos sigue preocupando que un gobierno tome tal medida contra las y los trabajadores, especialmente los trabajadores de la educaci&oacute;n que se encuentran entre las personas peor pagadas que trabajan en el sistema educativo. OSSTF/FEESO representa a unos 21 000 trabajadores de la educaci&oacute;n, adem&aacute;s de m&aacute;s de 40 000 maestras y maestros en Ontario.</span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; Nuestras negociaciones contin&uacute;an con el gobierno y nuestro sindicato no ha tomado un voto de huelga de los miembros todav&iacute;a. Ahora sabemos que todos los trabajadores nos respaldan, y agradezco a todos en la Coalici&oacute;n Trinacional por su apoyo y preparaci&oacute;n para actuar en nombre de nuestros compa&ntilde;eros de CUPE.</span></p>',
+            'imagen' => '1668028457.jpg',
+            'imagenbarner' => '1668028457.jpg',
+        ),
+        2=>array(
+            'id' => '2',
+            'fecha' => '2022-10-07',
+            'categoria' => 'Conferencias',
+            'titulo' => 'iniciamos los trabajos de la XV Conferencia  Trinacional en Defensa de la Educación, en Oaxaca, México.',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Programa de la XV Conferencia Trinacional en Defensa de la Educación Pública.',
+            'contlargo' => '<p>        Programa de la XV Conferencia Trinacional en Defensa de la Educación Pública.        <br>        Les invitamos a seguir la transmisión en vivo a partir de las 4:30 pm (hora de México)        <br>        <a href="https://www.facebook.com/events/1192641061289271/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A807551150435135%7D%7D]%22%7D">            <<< Enlace de transmisión de Conferencia >>>        </a>    </p>    <img src="http://drive.google.com/uc?export=view&id=1qfy77fvLk621PMIC4Hpu9a7s5h6E_SVj" with=""            height="" class="img-fluid" alt="...">    <img src="http://drive.google.com/uc?export=view&id=1jSkPylhLMHQwxj74O3qUAhNNmfheFG_L" with=""            height="" class="img-fluid" alt="...">',
+            'imagen' => '1665212453.jpg',
+            'imagenbarner' => '1665212453.jpg',
+        ),
+        3=>array(
+            'id' => '3',
+            'fecha' => '2022-10-07',
+            'categoria' => 'Conferencias',
+            'titulo' => 'Compañeros de Canadá, Estados Unidos y México en la escuela Telesecundaria de San Juan Guelavía en Oaxaca, México.',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'En la visita a las escuelas, nos recibieron las y los maestros y estudiantes, junto a los padres de familia y las comunidades.',
+            'contlargo' => '<p class="text-primario">En la visita a las escuelas, nos recibieron las y los maestros y estudiantes, junto a los padres de familia y las comunidades.</p>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <?php $img = ["1hpmDMEQSgq28yLHpi70sdn_A6iYWZX6Z",
+    "1cwQL9JxSHJVQI1H_1Bp4-5VYU0gjh0dO",
+    "1U5zD5SYI35a_W-J2xD0hxJuJ2aKSLZI2",
+    "1e42F7wSJoT3SN7LnOBMkSURU438VO-GP",
+    "1Uc461QV5qv2WuyOcfM-bNA-xcBmHoLb6",
+    "1ZpCFAODcu5X1K_zil9TfBkcfX87nmtOR",
+    "19Ggza6b0dio5jxX5E-cPPxUApuLLyXBs",
+    "1uA0gCQOI1FwiDIjTwj08p0XOLLopew0d",
+    "17otDcfbjtWjWKej2rys4g3U2PbfBh0ec",
+    "13tNiEpI64IustFjvd0SKizGh7JG7ziC1",
+    "1_M2u_SBdwc46F9Ckn6LDo-zaaVBUeIk5",
+    "1MdE0UlNtVw_CwIW6_ivpjK52ok88U_II",
+    "1xrQadLWlbAecIoGS_OkRpUa5D0OocxnG",
+    "1z4NIMAIb3Gf7LlRiSKn44U6Xnt7IEdiL",
+    "1prQmrm5XhDnGl4W5vpDhuJJiXAnovlyw"];   ?>
+
+            <div class="carousel-item active text-center">
+                <img src="http://drive.google.com/uc?export=view&id=<?php echo $img[0] ?>" width="720px" height="604px" class="img-fluid" alt="...">
+            </div>
+            <?php for ($i=1; $i < count($img); $i++) { ?>
+            <div class="carousel-item  text-center">
+                <img src="http://drive.google.com/uc?export=view&id=<?php echo $img[$i] ?>" width="720px" height="604px" class="img-fluid" alt="...">
+            </div>
+            <?php } ?>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>',
+            'imagen' => '1665215300.jpg',
+            'imagenbarner' => '1665215300.jpg',
+        ),
+        4=>array(
+            'id' => '4',
+            'fecha' => '2022-10-05',
+            'categoria' => 'Conferencias',
+            'titulo' => 'Conferencia de prensa presentación de la XV Conferencia Trinacional en Defensa de la Educación Pública',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'A realizarse en Oaxaca los días 7, 8 y 9 de octubre.Donde participarán representantes de Canadá, Estados Unidos y México.En la conferencia estaremos analizando los problemas en común que tenemos los docentes y estudiantes y trazaremos una agenda común de lucha.',
+            'contlargo' => '<div class="d-flex align-items-center">        <img src="http://drive.google.com/uc?export=view&id=1WtXtqsNi68oEVKtbNF2JtBK7c_-otc1D" with="150px"            height="150px" class="flex-shrink-0 me-3" alt="...">        <div class="text-center">            <p class="text-danger">Coalición Trinacional en Defensa de la Educación Pública</p>            <p class="text-danger">Trinational Coalition in Defense Public Education</p>            <p class="text-danger">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>        </div>    </div>    <div class="text-center">        <p class="text-danger fw-bold"><b> RUEDA DE PRENSA</b></p>        <p class="text-danger">Representaciones sindicales. De México, Estados Unidos y Canadá convocan a la XV            Conferencia Trinacional en Defensa de la Educación Pública con el fin de trazar una agenda de lucha para la            coyuntura.</p>    </div>    <br>    <p class="text-terciario">5 de octubre de 2022 <br> 13:00 horas</p>    <br>    <p class="text-primario">        <b></b>Lugar: Local del Sindicato Independiente de Trabajadores de la Universidad Autónoma Metropolitana        (SITUAM) ubicado en Calzada de Tlalpan Nº1036 Col. Nativitas Delegación Benito Juárez 03500 Ciudad de        México, a unas cuadras de metro Nativitas.</b>    </p>    <p class="text-primario">        &nbsp;Poco a poco comienza a estabilizarse la pandemia y en consecuencia se reabrieron las escuelas y        centros educativos de los diferentes niveles, no obstante, esta reapertura no contemplo el daño provocado        por la pandemia en la educación, ni garantiza que todos los niños y jóvenes regresen a la escuela. Asimismo,        muchos de los problemas que observamos hoy en el sector educativo son previos a la pandemia y continúan; la        vulnerabilidad a la que se enfrentan los niños, familias y comunidades de bajos ingresos, la desigual        cobertura en educación, la discriminación y exclusión por raza, clase y género, la precariedad salarial y de        condiciones de trabajo de los docentes, entre muchos otros aspectos que durante años hemos denunciado desde        la Coalición Trinacional en defensa de la educación pública.        <br>        &nbsp;A 30 años de nuestra fundación como Coalición Trinacional, representaciones sindicales,        trabajadores y trabajadoras de la educación, estudiantes y activistas comprometidas con la defensa del        derecho público a la educación de México, Estados Unidos y Canadá convocamos a los medios de comunicación        para presentar los trabajos y discusiones que se llevarán a cabo en la XV Conferencia Trinacional en Defensa        de la Educación Pública, a realizarse en Oaxaca, México los días 7,8 y 9 de octubre de 2022, con el fin de        trazar una agenda de lucha para la actual coyuntura.    </p>    <br>    <p class="text-terciario">        Mas información: seccionmexicana.coali@gmail.com   <br>     Dra. María de la Luz Arriaga 55 48 12 63 14</p>',
+            'imagen' => '1665209716.jpg',
+            'imagenbarner' => '1665209716.jpg',
+        ),
+        5=>array(
+            'id' => '5',
+            'fecha' => '2022-10-02',
+            'categoria' => 'Acciones',
+            'titulo' => '2 De Octubre No Se Olvida',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Hoy nos vemos en las calles, para juntas y juntos recordarle a la sociedad mexicana que la justicia contra los crímenes del Estado mexicano continúa ausente. ',
+            'contlargo' => '<h3>2/Octubre/1968</h3><ul style="list-style-type: circle;"><li>Ni perd&oacute;n ni olvido.</li><li>Por los estudiantes que dieron voz a los sin voz.Por los que perdieron su vida.</li><li>Por los que defendieron sus ideales.</li><li>Por los que perdieron a un hijo, hermano amigo, etc.</li><li>Por la sangre derramada en la plaza de las tres culturas.</li><li>Por los encarcelados en Lecumberri.</li><li>Porque gracias a ellos hoy tenemos la educaci&oacute;n que tenemos.</li><li>Para que nunca muera su legado en el olvido.</li><li>Por eso y m&aacute;s...</li></ul><h3>&iexcl;Vivan los estudiantes!</h3>',
+            'imagen' => '1664767597.jpg',
+            'imagenbarner' => '1664763866.jpg',
+        ),
+        6=>array(
+            'id' => '6',
+            'fecha' => '2022-09-30',
+            'categoria' => 'Conferencias',
+            'titulo' => 'XVConferencia de la Coalición Trinacional en Defensa de la Educación Pública (México, Estados Unidos y Canadá).',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'El tema que nos convoca en este momento de crisis y ante la necesidad de transformaciones profundas en nuestras sociedades es una educación pública para reconstruir la comunidad. ',
+            'contlargo' => '<h2 style="text-align: center;"><strong><a href="https://www.facebook.com/hashtag/coalici%C3%B3ntrinacional?__eep__=6&amp;__cft__[0]=AZVG7AJBibsegUzQx4om9z4A3Z7rsFOf1FERCmLNSnzSYrwq-YCJ7-Idefbx7tqBsUjCiibU0x3b3QtDyP5ws23T0nW_6vpN-3FQB0MHd-kQy6Ox9e3Yhzx1udr_-sJBsSxsU424fPzmmYyPFUlWSjNtCraNisuwm7oIAv96D9bigA&amp;__tn__=*NK-R" target="_blank" rel="noopener"></a>XVConferencia de la Coalici&oacute;n Trinacional en Defensa de la Educaci&oacute;n P&uacute;blica (M&eacute;xico, Estados Unidos y Canad&aacute;).</strong> <br /><br /></h2><p style="text-align: justify;">&nbsp; &nbsp;Una vez m&aacute;s, como lo hemos venido realizando desde ya casi 30 a&ntilde;os, representaciones sindicales, trabajadores y trabajadoras, estudiantes y activistas comprometidas con la defensa del derecho p&uacute;blico a la educaci&oacute;n y con propuestas y reflexiones educativas, para la transformaci&oacute;n social, nos daremos cita los d&iacute;as 7,8 y 9 de octubre de 2022, en la ciudad de Oaxaca.</p><p style="text-align: justify;">&nbsp; &nbsp;El tema que nos convoca en este momento de crisis y ante la necesidad de transformaciones profundas en nuestras sociedades es &ldquo;una educaci&oacute;n p&uacute;blica para reconstruir la comunidad&rdquo;.<br /><br />&nbsp; &nbsp;Sabemos que las necesidades y problem&aacute;ticas en el terreno educativo son bastas y complejas y tenemos la certeza de que esfuerzo de reflexi&oacute;n colectiva y de elaboraci&oacute;n de la agenda de lucha y de definici&oacute;n de acciones solidarias, fortalecer&aacute; nuestro compromiso de lucha en la defensa de la educaci&oacute;n como derecho social, fundamental en la construcci&oacute;n de sociedades democr&aacute;ticas y con justicia social.</p><p style="text-align: justify;"><a href="https://www.facebook.com/hashtag/coalici%C3%B3ntrinacional" target="_blank" rel="noopener">#Coalici&oacute;nTrinacional</a><a href="https://www.facebook.com/hashtag/conferenciatrinacional" target="_blank" rel="noopener">#ConferenciaTrinacional</a></p>',
+            'imagen' => '1664767623.jpg',
+            'imagenbarner' => '1664762932.jpg',
+        ),
+        7=>array(
+            'id' => '7',
+            'fecha' => '2022-09-27',
+            'categoria' => 'Campañas',
+            'titulo' => 'A unos minutos de que comience la presentación del folleto *Entre transformaciones y continuidades en el derecho a la educación pública y gratuita en tiempos de la 4T*',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'México',
+            'contcorto' => 'A unos minutos de que comience la presentación del folleto *Entre transformaciones y continuidades en el derecho a la educación pública y gratuita en tiempos de la 4T*',
+            'contlargo' => '<p style="text-align: justify;"><em><span>&nbsp; &nbsp; A unos minutos de que comience la presentaci&oacute;n del folleto "<strong>Entre transformaciones y continuidades en el derecho a la educaci&oacute;n p&uacute;blica y gratuita en tiempos de la 4T"</strong></span></em></p><p style="text-align: justify;"><em>En la presentaci&oacute;n contaremos con la participaci&oacute;n de:</em></p><ul><li style="text-align: justify;"><span><strong>Mar&iacute;a de la Luz Blanca Arriaga Lemus</strong>. Coordinadora de la Secci&oacute;n Mexicana de la Coalici&oacute;n Trinacional en Defensa de la Educaci&oacute;n P&uacute;blica.</span></li><li style="text-align: justify;"><span><strong>Leticia Lopez Zamora</strong>. Secretaria General del Sindicato de la Uni&oacute;n de Trabajadores del Instituto de Educaci&oacute;n Media Superior - SUTIEMS.</span></li><li style="text-align: justify;"><span><strong>Ver&oacute;nica Teneria Mendieta</strong>. Grupo Tiempos Modernos.</span></li><li style="text-align: justify;"><span><strong>Mario Mendoza.</strong> Frente Estudiantil Independiente del Valle de M&eacute;xico.</span></li><li style="text-align: justify;"><span><strong>Modera: Natalia Castillo Mosso</strong>. Grupo Tiempos Modernos.</span><br /><br /><br /><br /><span class="fxk3tzhb b2rh1bv3 gh55jysx m8h3af8h ewco64xe kjdc1dyq ms56khn7 bq6c9xl4 eohcrkr5 akh3l2rg"><img height="16" width="16" alt="" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6e/1/16/1f534.png" class="hoverZoom3 hoverZoomMouseover" /></span><span>&nbsp;Sigue la transmisi&oacute;n en vivo desde nuestra p&aacute;gina de Facebook</span></li></ul>',
+            'imagen' => '1664302815.jpg',
+            'imagenbarner' => '1664302815.jpg',
+        ),
+        8=>array(
+            'id' => '8',
             'fecha' => '2022-09-10',
             'categoria' => 'Conferencias',
             'titulo' => 'Clausura de la Conferencia Nacional de la Sección Mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
@@ -12,8 +135,8 @@ $articulo= array(
             'imagen' => '1663791448.jpg',
             'imagenbarner' => '1663791448.jpg',
         ),
-        2=>array(
-            'id' => '2',
+        9=>array(
+            'id' => '9',
             'fecha' => '2022-09-01',
             'categoria' => 'Conferencias',
             'titulo' => 'Conferencia Nacional de la Sección Mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
@@ -24,8 +147,8 @@ $articulo= array(
             'imagen' => '1663800748.png',
             'imagenbarner' => '1663800748.png',
         ),
-        3=>array(
-            'id' => '3',
+        10=>array(
+            'id' => '10',
             'fecha' => '2022-08-05',
             'categoria' => 'Conferencias',
             'titulo' => 'XV Conferencia Trinacional en Defensa de la Educación Pública',
@@ -36,8 +159,8 @@ $articulo= array(
             'imagen' => '1663801115.jpg',
             'imagenbarner' => '1663801115.jpg',
         ),
-        4=>array(
-            'id' => '4',
+        11=>array(
+            'id' => '11',
             'fecha' => '2022-08-05',
             'categoria' => 'Foros',
             'titulo' => 'Foro Regreso a clases presenciales en el ciclo escolar 2023-1',
@@ -48,8 +171,8 @@ $articulo= array(
             'imagen' => '1663801338.jpg',
             'imagenbarner' => '1663801338.jpg',
         ),
-        5=>array(
-            'id' => '5',
+        12=>array(
+            'id' => '12',
             'fecha' => '2022-07-05',
             'categoria' => 'Campañas',
             'titulo' => 'Coalición Trinacional en Defensa de la Educación da a conocer folleto en la ANR de la CNTE',
@@ -60,8 +183,8 @@ $articulo= array(
             'imagen' => '1663801235.jpg',
             'imagenbarner' => '1663801235.jpg',
         ),
-        6=>array(
-            'id' => '6',
+        13=>array(
+            'id' => '13',
             'fecha' => '2022-06-16',
             'categoria' => 'Acciones',
             'titulo' => 'Solidaridad con la huelga del SUTIEMS',
@@ -72,8 +195,8 @@ $articulo= array(
             'imagen' => '1663800940.jpg',
             'imagenbarner' => '1663800941.jpg',
         ),
-        7=>array(
-            'id' => '7',
+        14=>array(
+            'id' => '14',
             'fecha' => '2022-06-16',
             'categoria' => 'Campañas',
             'titulo' => 'Que la Educación virtual no te Desconecte Deshumanice',
@@ -84,8 +207,8 @@ $articulo= array(
             'imagen' => '1663801693.jpg',
             'imagenbarner' => '1663801693.jpg',
         ),
-        8=>array(
-            'id' => '8',
+        15=>array(
+            'id' => '15',
             'fecha' => '2022-06-12',
             'categoria' => 'Solidaridad',
             'titulo' => 'Dieron inicio las actividades en la Casa del Obrero Socialista Antonio Vital. COSAV',
@@ -96,8 +219,8 @@ $articulo= array(
             'imagen' => '1663801038.jpg',
             'imagenbarner' => '1663801038.jpg',
         ),
-        9=>array(
-            'id' => '9',
+        16=>array(
+            'id' => '16',
             'fecha' => '2022-03-02',
             'categoria' => 'Colaboraciones',
             'titulo' => 'Día Internacional de la Mujer 2022',
@@ -108,8 +231,8 @@ $articulo= array(
             'imagen' => '1663801463.jpg',
             'imagenbarner' => '1663801463.jpg',
         ),
-        10=>array(
-            'id' => '10',
+        17=>array(
+            'id' => '17',
             'fecha' => '2022-02-10',
             'categoria' => 'Solidaridad',
             'titulo' => 'José Antonio Vital Galicia',
@@ -120,8 +243,8 @@ $articulo= array(
             'imagen' => '1663801794.jpg',
             'imagenbarner' => '1663801794.jpg',
         ),
-        11=>array(
-            'id' => '11',
+        18=>array(
+            'id' => '18',
             'fecha' => '2021-11-10',
             'categoria' => 'Acciones',
             'titulo' => 'Presentación de Libro Educación',
@@ -132,5 +255,29 @@ $articulo= array(
             'imagen' => '1663801583.jpg',
             'imagenbarner' => '1663801583.jpg',
         ),
+        19=>array(
+            'id' => '16',
+            'fecha' => '2022-03-02',
+            'categoria' => 'Colaboraciones',
+            'titulo' => 'Día Internacional de la Mujer 2022',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Igualdad de género hoy para un mañana sostenible',
+            'contlargo' => '<p class="lead">        &nbsp;&nbsp; El tema del Día Internacional de la Mujer de hoy 8 de marzo de 2022, Igualdad de género hoy para un mañana sostenible, reconoce la contribución de las mujeres y las niñas de todo el mundo, que están liderando los esfuerzos de respuesta, mitigación y adaptación al cambio climático para construir un futuro más sostenible para todas las personas.        <br><br>        &nbsp;&nbsp;Potenciar la igualdad de género en el contexto de la crisis climática y la reducción del riesgo de desastres es uno de los mayores desafíos mundiales del siglo XXI. Los aspectos relacionados con el cambio climático y la sostenibilidad han tenido y seguirán teniendo consecuencias graves y duraderas en nuestro desarrollo social, económico y medioambiental.        <br><br>        &nbsp;&nbsp;Las personas más vulnerables y marginadas son quienes sufren sus efectos más nefastos. Cada vez es más evidente que las mujeres son más vulnerables al impacto del cambio climático que los hombres, ya que constituyen la mayoría de la población pobre del mundo y son más dependientes de los recursos naturales que están bajo la amenaza del cambio climático.        <br><br>        &nbsp;&nbsp;En el 2021, en el Foro Generación Igualdad, se puso en marcha la Coalición para la Acción sobre la acción feminista por la justicia climática, que reúne a Gobiernos, a empresas del sector privado, al sistema de las Naciones Unidas y a la sociedad civil con el fin de adoptar compromisos concretos para justicia climática. Este Día Internacional de la Mujer, la Coalición para la Acción está impulsando la inversión y la acción global centradas en financiar soluciones climáticas con justicia de género, aumentar el liderazgo de las mujeres en la economía verde, mejorar la resiliencia de las mujeres y las niñas a los desastres y los impactos climáticos e incrementar el uso de los datos sobre igualdad de género y clima.        <br><br>        <h5>Cronología de la conmemoración</h5>        <br><br>        &nbsp;&nbsp;La primera conmemoración se realizó el 19 de marzo de 1911 en Europa: Alemania, Austria, Dinamarca y Suiza; desde entonces se ha extendido a otros países y continentes.        <br><br>        &nbsp;&nbsp;Después de la revolución de 1917 ocurrida en la Unión Soviética, en 1922 la dirigente bolchevique Alexandra Kollontai (que desde su nombramiento como comisaria del Pueblo para la Asistencia Pública logró el voto para la mujer) consiguió que el 8 de marzo se considerase fiesta oficial en la Unión Soviética, aunque laborable. El 8 de mayo de 1965 por decreto del Sóviet Supremo de la Unión Soviética se declaró no laborable el Día Internacional de la Mujer.        <br><br>        &nbsp;&nbsp;Desde su aprobación oficial por la Unión Soviética la fiesta comenzó a celebrarse en otros muchos países. En China se celebra desde 1922. En España se celebró por primera vez en 1936.        <br><br>        &nbsp;&nbsp;En 1975, la ONU celebró el Año Internacional de la Mujer. En di',
+            'imagen' => '1663801463.jpg',
+            'imagenbarner' => '1663801463.jpg',
+        ),
+        20=>array(
+            'id' => '16',
+            'fecha' => '2022-03-02',
+            'categoria' => 'Colaboraciones',
+            'titulo' => 'Día Internacional de la Mujer 2022',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Igualdad de género hoy para un mañana sostenible',
+            'contlargo' => '<p class="lead">        &nbsp;&nbsp; El tema del Día Internacional de la Mujer de hoy 8 de marzo de 2022, Igualdad de género hoy para un mañana sostenible, reconoce la contribución de las mujeres y las niñas de todo el mundo, que están liderando los esfuerzos de respuesta, mitigación y adaptación al cambio climático para construir un futuro más sostenible para todas las personas.        <br><br>        &nbsp;&nbsp;Potenciar la igualdad de género en el contexto de la crisis climática y la reducción del riesgo de desastres es uno de los mayores desafíos mundiales del siglo XXI. Los aspectos relacionados con el cambio climático y la sostenibilidad han tenido y seguirán teniendo consecuencias graves y duraderas en nuestro desarrollo social, económico y medioambiental.        <br><br>        &nbsp;&nbsp;Las personas más vulnerables y marginadas son quienes sufren sus efectos más nefastos. Cada vez es más evidente que las mujeres son más vulnerables al impacto del cambio climático que los hombres, ya que constituyen la mayoría de la población pobre del mundo y son más dependientes de los recursos naturales que están bajo la amenaza del cambio climático.        <br><br>        &nbsp;&nbsp;En el 2021, en el Foro Generación Igualdad, se puso en marcha la Coalición para la Acción sobre la acción feminista por la justicia climática, que reúne a Gobiernos, a empresas del sector privado, al sistema de las Naciones Unidas y a la sociedad civil con el fin de adoptar compromisos concretos para justicia climática. Este Día Internacional de la Mujer, la Coalición para la Acción está impulsando la inversión y la acción global centradas en financiar soluciones climáticas con justicia de género, aumentar el liderazgo de las mujeres en la economía verde, mejorar la resiliencia de las mujeres y las niñas a los desastres y los impactos climáticos e incrementar el uso de los datos sobre igualdad de género y clima.        <br><br>        <h5>Cronología de la conmemoración</h5>        <br><br>        &nbsp;&nbsp;La primera conmemoración se realizó el 19 de marzo de 1911 en Europa: Alemania, Austria, Dinamarca y Suiza; desde entonces se ha extendido a otros países y continentes.        <br><br>        &nbsp;&nbsp;Después de la revolución de 1917 ocurrida en la Unión Soviética, en 1922 la dirigente bolchevique Alexandra Kollontai (que desde su nombramiento como comisaria del Pueblo para la Asistencia Pública logró el voto para la mujer) consiguió que el 8 de marzo se considerase fiesta oficial en la Unión Soviética, aunque laborable. El 8 de mayo de 1965 por decreto del Sóviet Supremo de la Unión Soviética se declaró no laborable el Día Internacional de la Mujer.        <br><br>        &nbsp;&nbsp;Desde su aprobación oficial por la Unión Soviética la fiesta comenzó a celebrarse en otros muchos países. En China se celebra desde 1922. En España se celebró por primera vez en 1936.        <br><br>        &nbsp;&nbsp;En 1975, la ONU celebró el Año Internacional de la Mujer. En di',
+            'imagen' => '1663801463.jpg',
+            'imagenbarner' => '1663801463.jpg',
+        )
 )
 ?>

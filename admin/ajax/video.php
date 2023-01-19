@@ -93,7 +93,7 @@ switch ($_GET["op"]){
 		$rspta=$video->listardesc();
 
         $string = '<?php' . "\r\n" . '$datosv= array(' . "\r\n";
-        $string2 = '<?php' . "\r\n" . 'datosv= array(' . "\r\n";
+        $string2 = '<?php' . "\r\n" . '$datosv= array(' . "\r\n";
 		$registro=1;
         while ($reg=$rspta->fetch_object()){
 			if ($reg->condicion == '1') {

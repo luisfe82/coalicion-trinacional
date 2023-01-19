@@ -1,0 +1,37 @@
+.origen-title {
+  text-align: center;
+}
+.origen-title h1 {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.origen-subtitle {
+  color: var(--color-terciario);
+  border-bottom: 2px dotted;
+  padding-bottom: 0.5rem;
+  font-size: 2rem;
+  text-align: left;
+}
+.origen-box {
+  display: flex;
+}
+.origen-box__texto {
+  display: flex;
+  flex-direction: column;
+}
+.origen-texto {
+  text-align: justify;
+}
+
+@media screen and (min-width: 768px) {
+  .origen-box__texto {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .origen-texto {
+    text-align: justify;
+    width: 30%;
+  }
+}

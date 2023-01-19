@@ -1,0 +1,78 @@
+.visitas__boxOne{
+    border: 4px double;
+    padding: 1rem;
+    margin-top: 3rem;
+}
+.visitas__box-title{
+    color: var(--color-terciario);
+    margin-bottom: 0.5rem;
+}
+.visitas__box-subtitle{
+    text-transform: uppercase;
+    margin: 0;
+}
+.visitas__box-descripcion{
+    text-align: justify;
+    font-family: 'Roboto';
+    color: var(--color-primario);
+}
+
+.visitas__boxTwo{
+    margin-top: 3rem;
+}
+
+.container__carousel {
+    position: relative;
+}
+
+.carouselVisitas {
+    display: none;
+
+}
+
+.prev-carouselVisitas,
+.next-carouselVisitas {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+.next-carouselVisitas{
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+
+
+.prev-carouselVisitas:hover,
+.next-carouselVisitas:hover {
+    background-color: rgba(236, 230, 230, 0.8);
+}
+
+.img-carousel {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 58rem;
+}
+
+/*! MediaQuery ----- */
+
+@media screen and (min-width:768px) {
+    .visitas {
+        display: flex;
+        gap: 1rem;
+    }
+    .img-carousel {
+        height: 39rem;
+        width: 40rem;
+    }
+}

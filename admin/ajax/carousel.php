@@ -51,6 +51,35 @@ $imagenlat=isset($_POST["imagenlat"])? limpiarCadena($_POST["imagenlat"]):"";
 
 switch ($_GET["op"]){
 	case 'guardaryeditar':
+	    if (!file_exists($_FILES['imagen']['tmp_name']) || !is_uploaded_file($_FILES['imagen']['tmp_name']))
+		{
+			$imagen=$_POST["imagenactual"];
+		}
+		else 
+		{
+			$ext = explode(".", $_FILES["imagen"]["name"]);
+			if ($_FILES['imagen']['type'] == "image/jpg" || $_FILES['imagen']['type'] == "image/jpeg" || $_FILES['imagen']['type'] == "image/png")
+			{
+				$imagen = round(microtime(true)) . '.' . end($ext);
+				move_uploaded_file($_FILES["imagen"]["tmp_name"], "../files/carousel/" . $imagen);
+			}
+		}
+	    
+	    if (!file_exists($_FILES['imagenart']['tmp_name']) || !is_uploaded_file($_FILES['imagenart']['tmp_name']))
+		{
+			$imagenart=$_POST["imagenactual2"];
+		}
+		else 
+		{
+			$ext = explode(".", $_FILES["imagenart"]["name"]);
+			if ($_FILES['imagenart']['type'] == "image/jpg" || $_FILES['imagenart']['type'] == "image/jpeg" || $_FILES['imagenart']['type'] == "image/png")
+			{
+				$imagenart = round(microtime(true)) . '.' . end($ext);
+				move_uploaded_file($_FILES["imagenart"]["tmp_name"], "../files/articulo/" . $imagenart);
+			}
+		}
+	    
+	    
         if (!file_exists($_FILES['imagenlat']['tmp_name']) || !is_uploaded_file($_FILES['imagenlat']['tmp_name']))
 		{
 			$imagenlat=$_POST["imagenactual3"];
@@ -65,33 +94,7 @@ switch ($_GET["op"]){
 			}
 		}
 
-        if (!file_exists($_FILES['imagen']['tmp_name']) || !is_uploaded_file($_FILES['imagen']['tmp_name']))
-		{
-			$imagen=$_POST["imagenactual"];
-		}
-		else 
-		{
-			$ext = explode(".", $_FILES["imagen"]["name"]);
-			if ($_FILES['imagen']['type'] == "image/jpg" || $_FILES['imagen']['type'] == "image/jpeg" || $_FILES['imagen']['type'] == "image/png")
-			{
-				$imagen = round(microtime(true)) . '.' . end($ext);
-				move_uploaded_file($_FILES["imagen"]["tmp_name"], "../files/carousel/" . $imagen);
-			}
-		}
-
-        if (!file_exists($_FILES['imagenart']['tmp_name']) || !is_uploaded_file($_FILES['imagenart']['tmp_name']))
-		{
-			$imagenart=$_POST["imagenactual2"];
-		}
-		else 
-		{
-			$ext = explode(".", $_FILES["imagenart"]["name"]);
-			if ($_FILES['imagenart']['type'] == "image/jpg" || $_FILES['imagenart']['type'] == "image/jpeg" || $_FILES['imagenart']['type'] == "image/png")
-			{
-				$imagenart = round(microtime(true)) . '.' . end($ext);
-				move_uploaded_file($_FILES["imagenart"]["tmp_name"], "../files/articulo/" . $imagenart);
-			}
-		}
+ 
 
 		if(empty($idcarousel)){
 			$rspta=$carousel->insertar($fecha,$categoria,$encategoria,$titulo,$entitulo,$barra1,$enbarra1,$barra2,$enbarra2,$autor,$enautor,$pais,$enpais,$contcorto,$encontcorto,$contlargo,$encontlargo,$imagen,$imagenart,$imagenlat);
@@ -172,8 +175,8 @@ switch ($_GET["op"]){
 				$string2 = $string2 . "            'fecha' => '" . $reg->fecha . "'," . "\r\n";
 				$string2 = $string2 . "            'categoria' => '" . $reg->encategoria . "'," . "\r\n";
 				$string2 = $string2 . "            'titulo' => '" . $reg->entitulo . "'," . "\r\n";
-                $string2 = $string2 . "            'enbarra1' => '" . $reg->enbarra1 . "'," . "\r\n";
-				$string2 = $string2 . "            'enbarra2' => '" . $reg->enbarra2 . "'," . "\r\n";
+                $string2 = $string2 . "            'barra1' => '" . $reg->enbarra1 . "'," . "\r\n";
+				$string2 = $string2 . "            'barra2' => '" . $reg->enbarra2 . "'," . "\r\n";
 				$string2 = $string2 . "            'autor' => '" . $reg->enautor . "'," . "\r\n";
 				$string2 = $string2 . "            'pais' => '" . $reg->enpais . "'," . "\r\n";
 				$string2 = $string2 . "            'contcorto' => '" . $reg->encontcorto . "'," . "\r\n";

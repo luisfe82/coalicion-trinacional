@@ -1,0 +1,53 @@
+.articulo__title{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px dotted;
+    padding-bottom: 8px;
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--color-primario);
+    text-transform: uppercase;
+}
+.articulo-contenido{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.articulo__subtitle{
+    color:var(--color-terciario)
+}
+.articulo__imagen{
+    overflow: hidden;
+    height: 40rem;
+    box-shadow: 1px 1px 18px var(--color-terciario);
+}
+.imagen-fluid{
+    width: 100%;
+    height: auto;    
+}
+.articulo__categoria {
+    text-transform: uppercase;
+    color: var(--color-terciario);
+}
+.articulo__resumenTexto{
+    font-weight: 400;
+    text-align: justify;
+}
+.articulo__pais-fecha-autor{
+    text-align: end;
+    color: var(--gris);
+    font-size: 1.5rem;
+}
+.articulo__completo p{
+    color: var(--color-terciario);
+    font-family: 'Roboto';
+    font-weight: 500;
+    text-align: justify;
+}
+.articulo__compartir{
+    border-bottom: 2px dotted;
+    padding-bottom: 1rem;
+}
+.articulo__redes-sociales{
+    display: flex;
+    justify-content: space-evenly;
+}

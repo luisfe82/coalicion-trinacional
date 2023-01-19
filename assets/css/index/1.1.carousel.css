@@ -1,0 +1,106 @@
+.container-carousel {
+    position: relative;
+}
+
+.carousel {
+    display: none;
+
+}
+
+.carousel__text {
+    color: var(--blanco);
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0rem 2rem;
+    bottom: 0;
+    left: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    line-height: 16px;
+    width: 100%;
+
+    clip-path: polygon(50% 0, 50% 0, 50% 100%, 50% 100%);
+    transition: clip-path 1s;
+}
+
+.carousel:hover .carousel__text {
+    clip-path: polygon(100% 0, 0 0, 0 100%, 100% 100%);
+}
+
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+.next,
+.next1,
+.next2 {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev1,
+.next1,
+.prev2,
+.next2 {
+    position: absolute;
+    top: 10rem;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: var(--negro);
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.prev:hover,
+.next:hover,
+.prev1:hover,
+.next1:hover, 
+.prev2:hover,
+.next2:hover {
+    background-color: rgba(236, 230, 230, 0.8);
+}
+
+.img-carousel {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 58rem;
+}
+
+.img-h {
+    display: none;
+}
+
+.img-v {
+    display: block;
+}
+
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px) {
+    .img-h {
+        display: block;
+    }
+
+    .img-v {
+        display: none;
+    }
+}
+
+@media screen and (min-width:992px) {}

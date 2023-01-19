@@ -1,0 +1,63 @@
+.memorias{    
+    background: url("../../img/fondo-memoria.webp") no-repeat center / cover;
+    width: 100%;
+    height: 34rem;
+    margin: 2rem 0;
+}
+.memorias-sombra{
+    background: rgba(0, 114, 176,0.6);
+    height: inherit;
+}
+.memorias-title{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px dotted;
+    padding-bottom: 8px;
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--blanco);
+}
+.memorias-box{    
+    display: flex;
+    justify-content: space-between;
+}
+.memorias__cartel{  
+    width: calc(100%/2);
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cartel{
+    width: 16rem;
+    height: 18rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 12px var(--color-primario);
+}
+
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px) {
+    .memorias{
+        height: 40rem;
+    }
+    .memorias__cartel{  
+        width: calc(100%/2);
+    }
+    .memorias__cartel {
+        height: 30rem;
+    }
+    .cartel{
+        width: 22rem;
+        height: 26rem;
+    }
+}
+@media screen and (min-width:992px) {    
+    .memorias__cartel {
+        height: 34rem;
+    }
+    .cartel{
+        width: 28rem;
+        height: 30rem;
+    }
+}

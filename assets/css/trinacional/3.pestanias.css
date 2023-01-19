@@ -1,0 +1,12 @@
+.contenido-conferencia__box-subtitle{
+    text-transform: uppercase;
+    color: var(--color-terciario);
+    margin: 0;
+}
+.contenido-conferencia__box-title{
+    font-weight: 400;
+    font-family: 'Roboto';
+    border-bottom: 2px dotted;
+    padding-bottom: 0.5rem;
+    margin: 0;
+}

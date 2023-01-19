@@ -1,0 +1,21 @@
+.img-trinacional{
+    width: 100%;
+    object-fit: cover;
+    height: 57rem;
+    object-position: -60rem;
+    margin: 0;
+}
+
+/*!--- MediaQuery Header ------ */
+
+@media screen and (min-width:768px) {
+    .img-trinacional{
+        object-position: -19rem;
+    }
+}
+@media screen and (min-width:992px) { 
+    .img-trinacional{
+        object-position: -3rem;
+        height: 49rem;
+    }
+}  

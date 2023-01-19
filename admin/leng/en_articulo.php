@@ -2,6 +2,90 @@
 $articulo= array(
         1=>array(
             'id' => '1',
+            'fecha' => '2022-11-09',
+            'categoria' => 'Actions',
+            'titulo' => 'Teachers strike in Ontario, Canada',
+            'autor' => 'Tri-National Coalitation',
+            'pais' => 'Mexico',
+            'contcorto' => 'Mexico ',
+            'contlargo' => '<p style="text-align: justify;"><span>&nbsp; &nbsp; I am happy to provide an update on the situation in Ontario, Canada regarding the political protest by our 55,000 education worker comrades represented by the Canadian Union of Public Employees (CUPE). These members of CUPE include educational assistants, custodians, child and youth workers, office staff, technicians, speech language pathologists, lunchroom monitors, and many others who make up the education team. </span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&amp;id=1DN_pnu6cIldo4SobYqfg0DjwkiPSEbl8" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; As reported last week, the government passed a law, know as Bill 28 &ndash; Keeping Students in Class Act, which unilaterally imposed a contract on CUPE members, removed their right to strike, and invoked the notwithstanding clause, a Constitutional power that allows the government to override portions of our Charter of Rights and Freedoms for a period of five years. Despite this move CUPE went out on a political protest on Friday and again on Monday. CUPE was in a LEGAL strike position up until the Act was passed by the government.</span></p><p style="text-align: justify;"><span>&nbsp; Yesterday morning, the Premier of Ontario Doug Ford and Minister of Education Stephen Lecce held a press conference. They announced that they would REPEAL Bill 28 if CUPE agreed to end their strike and get back to the bargaining table. The Premier was facing public backlash and unions from across the province of Ontario, and across Canada, were lining up to denounce Bill 28 and the call for a General Strike by public and private sector unions was growing. CUPE got the Premier&rsquo;s promise to repeal Bill 28 in writing and was joined by over 20 private and public sector unions at a press conference later in the morning to say they would return to work and the bargaining table.</span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&amp;id=1hFoehTERE4cVMtWN5g2Jn_DEnf9KCDSv" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; The Ontario government&rsquo;s heavy-handed attempt to force a contract and remove the right to strike of CUPE workers failed. It showed every government in Canada that when you attack one of us, you attack all of us! The power of labour solidarity prevailed. However, we remain concerned that a government would take such an action against workers, especially education workers who are among the lowest paid people working in the education system. OSSTF/FEESO represents about 21,000 education workers, in addition to over 40,000 teachers in Ontario.</span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; Our negotiations continue with the government and our union has NOT taken a strike vote of the membership yet. We now know that all of labour has our backs, and I thank everyone in the Tri-National Coalition for their support and preparedness to act on behalf of our comrades at CUPE.</span></p>',
+            'imagen' => '1668028458.jpg',
+            'imagenbarner' => '1668028457.jpg',
+        ),
+        2=>array(
+            'id' => '2',
+            'fecha' => '2022-10-07',
+            'categoria' => 'Conferences',
+            'titulo' => 'iniciamos los trabajos de la XV Conferencia  Trinacional en Defensa de la Educación, en Oaxaca, México.',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'Programa de la XV Conferencia Trinacional en Defensa de la Educación Pública.',
+            'contlargo' => '<p>        Programa de la XV Conferencia Trinacional en Defensa de la Educación Pública.        <br>        Les invitamos a seguir la transmisión en vivo a partir de las 4:30 pm (hora de México)        <br>        <a href="https://www.facebook.com/events/1192641061289271/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A807551150435135%7D%7D]%22%7D">            <<< Enlace de transmisión de Conferencia >>>        </a>    </p>    <img src="http://drive.google.com/uc?export=view&id=1qfy77fvLk621PMIC4Hpu9a7s5h6E_SVj" with=""            height="" class="img-fluid" alt="...">    <img src="http://drive.google.com/uc?export=view&id=1jSkPylhLMHQwxj74O3qUAhNNmfheFG_L" with=""            height="" class="img-fluid" alt="...">',
+            'imagen' => '1665212453.jpg',
+            'imagenbarner' => '1665212453.jpg',
+        ),
+        3=>array(
+            'id' => '3',
+            'fecha' => '2022-10-07',
+            'categoria' => 'Conferences',
+            'titulo' => 'Compañeros de Canadá, Estados Unidos y México en la escuela Telesecundaria de San Juan Guelavía en Oaxaca, México.',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'En la visita a las escuelas, nos recibieron las y los maestros y estudiantes, junto a los padres de familia y las comunidades.',
+            'contlargo' => '<p class="text-primario">En la visita a las escuelas, nos recibieron las y los maestros y estudiantes, junto a los padres de familia y las comunidades.</p>    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">        <div class="carousel-inner">            <?php $img = ["1hpmDMEQSgq28yLHpi70sdn_A6iYWZX6Z",    "1cwQL9JxSHJVQI1H_1Bp4-5VYU0gjh0dO",    "1U5zD5SYI35a_W-J2xD0hxJuJ2aKSLZI2",    "1e42F7wSJoT3SN7LnOBMkSURU438VO-GP",    "1Uc461QV5qv2WuyOcfM-bNA-xcBmHoLb6",    "1ZpCFAODcu5X1K_zil9TfBkcfX87nmtOR",    "19Ggza6b0dio5jxX5E-cPPxUApuLLyXBs",    "1uA0gCQOI1FwiDIjTwj08p0XOLLopew0d",    "17otDcfbjtWjWKej2rys4g3U2PbfBh0ec",    "13tNiEpI64IustFjvd0SKizGh7JG7ziC1",    "1_M2u_SBdwc46F9Ckn6LDo-zaaVBUeIk5",    "1MdE0UlNtVw_CwIW6_ivpjK52ok88U_II",    "1xrQadLWlbAecIoGS_OkRpUa5D0OocxnG",    "1z4NIMAIb3Gf7LlRiSKn44U6Xnt7IEdiL",    "1prQmrm5XhDnGl4W5vpDhuJJiXAnovlyw"];   ?>            <div class="carousel-item active text-center">                <img src="http://drive.google.com/uc?export=view&id=<?php echo $img[0] ?>" width="720px" height="604px" class="img-fluid" alt="...">            </div>            <?php for ($i=1; $i < count($img); $i++) { ?>            <div class="carousel-item  text-center">                <img src="http://drive.google.com/uc?export=view&id=<?php echo $img[$i] ?>" width="720px" height="604px" class="img-fluid" alt="...">            </div>            <?php } ?>        </div>        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"            data-bs-slide="prev">            <span class="carousel-control-prev-icon" aria-hidden="true"></span>            <span class="visually-hidden">Previous</span>        </button>        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"            data-bs-slide="next">            <span class="carousel-control-next-icon" aria-hidden="true"></span>            <span class="visually-hidden">Next</span>        </button>    </div>',
+            'imagen' => '1665215300.jpg',
+            'imagenbarner' => '1665215300.jpg',
+        ),
+        4=>array(
+            'id' => '4',
+            'fecha' => '2022-10-05',
+            'categoria' => 'Conferences',
+            'titulo' => 'Conferencia de prensa presentación de la XV Conferencia Trinacional en Defensa de la Educación Pública',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'A realizarse en Oaxaca los días 7, 8 y 9 de octubre.Donde participarán representantes de Canadá, Estados Unidos y México.En la conferencia estaremos analizando los problemas en común que tenemos los docentes y estudiantes y trazaremos una agenda común de lucha.',
+            'contlargo' => '<div class="d-flex align-items-center">        <img src="http://drive.google.com/uc?export=view&id=1WtXtqsNi68oEVKtbNF2JtBK7c_-otc1D" with="150px"            height="150px" class="flex-shrink-0 me-3" alt="...">        <div class="text-center">            <p class="text-danger">Coalición Trinacional en Defensa de la Educación Pública</p>            <p class="text-danger">Trinational Coalition in Defense Public Education</p>            <p class="text-danger">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>        </div>    </div>    <div class="text-center">        <p class="text-danger fw-bold"><b> RUEDA DE PRENSA</b></p>        <p class="text-danger">Representaciones sindicales. De México, Estados Unidos y Canadá convocan a la XV            Conferencia Trinacional en Defensa de la Educación Pública con el fin de trazar una agenda de lucha para la            coyuntura.</p>    </div>    <br>    <p class="text-terciario">5 de octubre de 2022 <br> 13:00 horas</p>    <br>    <p class="text-primario">        <b></b>Lugar: Local del Sindicato Independiente de Trabajadores de la Universidad Autónoma Metropolitana        (SITUAM) ubicado en Calzada de Tlalpan Nº1036 Col. Nativitas Delegación Benito Juárez 03500 Ciudad de        México, a unas cuadras de metro Nativitas.</b>    </p>    <p class="text-primario">        &nbsp;Poco a poco comienza a estabilizarse la pandemia y en consecuencia se reabrieron las escuelas y        centros educativos de los diferentes niveles, no obstante, esta reapertura no contemplo el daño provocado        por la pandemia en la educación, ni garantiza que todos los niños y jóvenes regresen a la escuela. Asimismo,        muchos de los problemas que observamos hoy en el sector educativo son previos a la pandemia y continúan; la        vulnerabilidad a la que se enfrentan los niños, familias y comunidades de bajos ingresos, la desigual        cobertura en educación, la discriminación y exclusión por raza, clase y género, la precariedad salarial y de        condiciones de trabajo de los docentes, entre muchos otros aspectos que durante años hemos denunciado desde        la Coalición Trinacional en defensa de la educación pública.        <br>        &nbsp;A 30 años de nuestra fundación como Coalición Trinacional, representaciones sindicales,        trabajadores y trabajadoras de la educación, estudiantes y activistas comprometidas con la defensa del        derecho público a la educación de México, Estados Unidos y Canadá convocamos a los medios de comunicación        para presentar los trabajos y discusiones que se llevarán a cabo en la XV Conferencia Trinacional en Defensa        de la Educación Pública, a realizarse en Oaxaca, México los días 7,8 y 9 de octubre de 2022, con el fin de        trazar una agenda de lucha para la actual coyuntura.    </p>    <br>    <p class="text-terciario">        Mas información: seccionmexicana.coali@gmail.com    <br>    Dra. María de la Luz Arriaga 55 48 12 63 14</p>',
+            'imagen' => '1665209716.jpg',
+            'imagenbarner' => '1665209716.jpg',
+        ),
+        5=>array(
+            'id' => '5',
+            'fecha' => '2022-10-02',
+            'categoria' => 'Actions',
+            'titulo' => '2 De Octubre No Se Olvida',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'Hoy nos vemos en las calles, para juntas y juntos recordarle a la sociedad mexicana que la justicia contra los crímenes del Estado mexicano continúa ausente. ',
+            'contlargo' => '<h3>2/Octubre/1968</h3><ul style="list-style-type: circle;"><li>Ni perd&oacute;n ni olvido.</li><li>Por los estudiantes que dieron voz a los sin voz.Por los que perdieron su vida.</li><li>Por los que defendieron sus ideales.</li><li>Por los que perdieron a un hijo, hermano amigo, etc.</li><li>Por la sangre derramada en la plaza de las tres culturas.</li><li>Por los encarcelados en Lecumberri.</li><li>Porque gracias a ellos hoy tenemos la educaci&oacute;n que tenemos.</li><li>Para que nunca muera su legado en el olvido.</li><li>Por eso y m&aacute;s...</li></ul><h3>&iexcl;Vivan los estudiantes!</h3>',
+            'imagen' => '1664767597.jpg',
+            'imagenbarner' => '1664763866.jpg',
+        ),
+        6=>array(
+            'id' => '6',
+            'fecha' => '2022-09-30',
+            'categoria' => 'Conferences',
+            'titulo' => 'XVConferencia de la Coalición Trinacional en Defensa de la Educación Pública (México, Estados Unidos y Canadá).',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'El tema que nos convoca en este momento de crisis y ante la necesidad de transformaciones profundas en nuestras sociedades es una educación pública para reconstruir la comunidad. ',
+            'contlargo' => '<h2 style="text-align: center;"><strong><a href="https://www.facebook.com/hashtag/coalici%C3%B3ntrinacional?__eep__=6&amp;__cft__[0]=AZVG7AJBibsegUzQx4om9z4A3Z7rsFOf1FERCmLNSnzSYrwq-YCJ7-Idefbx7tqBsUjCiibU0x3b3QtDyP5ws23T0nW_6vpN-3FQB0MHd-kQy6Ox9e3Yhzx1udr_-sJBsSxsU424fPzmmYyPFUlWSjNtCraNisuwm7oIAv96D9bigA&amp;__tn__=*NK-R" target="_blank" rel="noopener"></a>XVConferencia de la Coalici&oacute;n Trinacional en Defensa de la Educaci&oacute;n P&uacute;blica (M&eacute;xico, Estados Unidos y Canad&aacute;).</strong> <br /><br /></h2><p style="text-align: justify;">&nbsp; &nbsp;Una vez m&aacute;s, como lo hemos venido realizando desde ya casi 30 a&ntilde;os, representaciones sindicales, trabajadores y trabajadoras, estudiantes y activistas comprometidas con la defensa del derecho p&uacute;blico a la educaci&oacute;n y con propuestas y reflexiones educativas, para la transformaci&oacute;n social, nos daremos cita los d&iacute;as 7,8 y 9 de octubre de 2022, en la ciudad de Oaxaca.</p><p style="text-align: justify;">&nbsp; &nbsp;El tema que nos convoca en este momento de crisis y ante la necesidad de transformaciones profundas en nuestras sociedades es &ldquo;una educaci&oacute;n p&uacute;blica para reconstruir la comunidad&rdquo;.<br /><br />&nbsp; &nbsp;Sabemos que las necesidades y problem&aacute;ticas en el terreno educativo son bastas y complejas y tenemos la certeza de que esfuerzo de reflexi&oacute;n colectiva y de elaboraci&oacute;n de la agenda de lucha y de definici&oacute;n de acciones solidarias, fortalecer&aacute; nuestro compromiso de lucha en la defensa de la educaci&oacute;n como derecho social, fundamental en la construcci&oacute;n de sociedades democr&aacute;ticas y con justicia social.</p><p style="text-align: justify;"><a href="https://www.facebook.com/hashtag/coalici%C3%B3ntrinacional" target="_blank" rel="noopener">#Coalici&oacute;nTrinacional</a><a href="https://www.facebook.com/hashtag/conferenciatrinacional" target="_blank" rel="noopener">#ConferenciaTrinacional</a></p>',
+            'imagen' => '1664767623.jpg',
+            'imagenbarner' => '1664762932.jpg',
+        ),
+        7=>array(
+            'id' => '7',
+            'fecha' => '2022-09-27',
+            'categoria' => 'Bells',
+            'titulo' => 'A unos minutos de que comience la presentación del folleto *Entre transformaciones y continuidades en el derecho a la educación pública y gratuita en tiempos de la 4T*',
+            'autor' => 'Coalición Trinacional',
+            'pais' => 'Mexico',
+            'contcorto' => 'A unos minutos de que comience la presentación del folleto *Entre transformaciones y continuidades en el derecho a la educación pública y gratuita en tiempos de la 4T*',
+            'contlargo' => '<p style="text-align: justify;"><em><span>&nbsp; &nbsp; A unos minutos de que comience la presentaci&oacute;n del folleto "<strong>Entre transformaciones y continuidades en el derecho a la educaci&oacute;n p&uacute;blica y gratuita en tiempos de la 4T"</strong></span></em></p><p style="text-align: justify;"><em>En la presentaci&oacute;n contaremos con la participaci&oacute;n de:</em></p><ul><li style="text-align: justify;"><span><strong>Mar&iacute;a de la Luz Blanca Arriaga Lemus</strong>. Coordinadora de la Secci&oacute;n Mexicana de la Coalici&oacute;n Trinacional en Defensa de la Educaci&oacute;n P&uacute;blica.</span></li><li style="text-align: justify;"><span><strong>Leticia Lopez Zamora</strong>. Secretaria General del Sindicato de la Uni&oacute;n de Trabajadores del Instituto de Educaci&oacute;n Media Superior - SUTIEMS.</span></li><li style="text-align: justify;"><span><strong>Ver&oacute;nica Teneria Mendieta</strong>. Grupo Tiempos Modernos.</span></li><li style="text-align: justify;"><span><strong>Mario Mendoza.</strong> Frente Estudiantil Independiente del Valle de M&eacute;xico.</span></li><li style="text-align: justify;"><span><strong>Modera: Natalia Castillo Mosso</strong>. Grupo Tiempos Modernos.</span><br /><br /><br /><br /><span class="fxk3tzhb b2rh1bv3 gh55jysx m8h3af8h ewco64xe kjdc1dyq ms56khn7 bq6c9xl4 eohcrkr5 akh3l2rg"><img height="16" width="16" alt="" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6e/1/16/1f534.png" class="hoverZoom3 hoverZoomMouseover" /></span><span>&nbsp;Sigue la transmisi&oacute;n en vivo desde nuestra p&aacute;gina de Facebook</span></li></ul>',
+            'imagen' => '1664302815.jpg',
+            'imagenbarner' => '1664302815.jpg',
+        ),
+        8=>array(
+            'id' => '8',
             'fecha' => '2022-09-10',
             'categoria' => 'Conferences',
             'titulo' => 'Clausura de la Conferencia Nacional de la Sección Mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
@@ -12,8 +96,8 @@ $articulo= array(
             'imagen' => '1663791448.jpg',
             'imagenbarner' => '1663791448.jpg',
         ),
-        2=>array(
-            'id' => '2',
+        9=>array(
+            'id' => '9',
             'fecha' => '2022-09-01',
             'categoria' => 'Conferences',
             'titulo' => 'Conferencia Nacional de la Sección Mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
@@ -24,8 +108,8 @@ $articulo= array(
             'imagen' => '1663800748.png',
             'imagenbarner' => '1663800748.png',
         ),
-        3=>array(
-            'id' => '3',
+        10=>array(
+            'id' => '10',
             'fecha' => '2022-08-05',
             'categoria' => 'Conferences',
             'titulo' => 'XV Conferencia Trinacional en Defensa de la Educación Pública',
@@ -36,8 +120,8 @@ $articulo= array(
             'imagen' => '1663801115.jpg',
             'imagenbarner' => '1663801115.jpg',
         ),
-        4=>array(
-            'id' => '4',
+        11=>array(
+            'id' => '11',
             'fecha' => '2022-08-05',
             'categoria' => 'Forums',
             'titulo' => 'Foro Regreso a clases presenciales en el ciclo escolar 2023-1',
@@ -48,8 +132,8 @@ $articulo= array(
             'imagen' => '1663801338.jpg',
             'imagenbarner' => '1663801338.jpg',
         ),
-        5=>array(
-            'id' => '5',
+        12=>array(
+            'id' => '12',
             'fecha' => '2022-07-05',
             'categoria' => 'Forums',
             'titulo' => 'Coalición Trinacional en Defensa de la Educación da a conocer folleto en la ANR de la CNTE',
@@ -60,8 +144,8 @@ $articulo= array(
             'imagen' => '1663801235.jpg',
             'imagenbarner' => '1663801235.jpg',
         ),
-        6=>array(
-            'id' => '6',
+        13=>array(
+            'id' => '13',
             'fecha' => '2022-06-16',
             'categoria' => 'Actions',
             'titulo' => 'Solidaridad con la huelga del SUTIEMS',
@@ -72,8 +156,8 @@ $articulo= array(
             'imagen' => '1663800940.jpg',
             'imagenbarner' => '1663800941.jpg',
         ),
-        7=>array(
-            'id' => '7',
+        14=>array(
+            'id' => '14',
             'fecha' => '2022-06-16',
             'categoria' => 'Bells',
             'titulo' => 'Que la Educación virtual no te Desconecte Deshumanice',
@@ -84,8 +168,8 @@ $articulo= array(
             'imagen' => '1663801693.jpg',
             'imagenbarner' => '1663801693.jpg',
         ),
-        8=>array(
-            'id' => '8',
+        15=>array(
+            'id' => '15',
             'fecha' => '2022-06-12',
             'categoria' => 'Solidarity',
             'titulo' => 'Dieron inicio las actividades en la Casa del Obrero Socialista Antonio Vital. COSAV',
@@ -96,8 +180,8 @@ $articulo= array(
             'imagen' => '1663801038.jpg',
             'imagenbarner' => '1663801038.jpg',
         ),
-        9=>array(
-            'id' => '9',
+        16=>array(
+            'id' => '16',
             'fecha' => '2022-03-02',
             'categoria' => 'Collaborations',
             'titulo' => 'Día Internacional de la Mujer 2022',
@@ -108,8 +192,8 @@ $articulo= array(
             'imagen' => '1663801463.jpg',
             'imagenbarner' => '1663801463.jpg',
         ),
-        10=>array(
-            'id' => '10',
+        17=>array(
+            'id' => '17',
             'fecha' => '2022-02-10',
             'categoria' => 'Solidarity',
             'titulo' => 'José Antonio Vital Galicia',
@@ -120,8 +204,8 @@ $articulo= array(
             'imagen' => '1663801794.jpg',
             'imagenbarner' => '1663801794.jpg',
         ),
-        11=>array(
-            'id' => '11',
+        18=>array(
+            'id' => '18',
             'fecha' => '2021-11-10',
             'categoria' => 'Actions',
             'titulo' => 'Presentación de Libro Educación',

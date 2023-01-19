@@ -1,0 +1,183 @@
+/* CSS para dar estilo al menú de pestañas */
+.tabs-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-buttons {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  flex-direction: column;
+}
+
+.tab-button {
+  flex: 1;
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.tab-button.active {
+  background-color: #ddd !important;
+  color: var(--color-primario) !important;
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}
+
+/* ? ----------- Carousel ----------- */
+.container-carousel-galeria {
+  position: relative;
+  width: 100%;
+}
+.img-galeria {
+  width: 100%;
+  height: 40rem;
+}
+.prev-galeria,
+.next-galeria {
+  position: absolute;
+  bottom: 0;
+  background: var(--color-secundario);
+}
+
+.next-galeria {
+  right: 16px;
+}
+.prev-galeria {
+  left: 16px;
+}
+@media screen and (min-width: 768px) {
+  .categoria__area-noticias,
+  .categoria__barra-eventos {
+    width: 100%;
+    display: flex;
+  }
+  .container-carousel-galeria {
+    display: flex;
+    position: relative;
+    width: 50rem;
+    background: var(--color-secundario);
+    margin-left: 2rem;
+    height: 50rem;
+    align-items: center;
+    justify-content: center;
+  }
+  .img-galeria {
+    width: 47rem;
+    height: 45rem;
+  }
+  .img-galeria:hover{
+    cursor: pointer;
+  }
+  .prev-galeria,
+  .next-galeria {
+    position: absolute;
+    bottom: 0;
+  }
+
+  .next-galeria {
+    right: 16px;
+  }
+  .prev-galeria {
+    left: 16px;
+  }
+  .tabs-container {
+    flex-direction: row;
+  }
+
+  .tab-buttons {
+    flex-direction: column;
+  }
+}
+@media screen and (min-width: 992px) {
+  .categoria__area-noticias {
+    width: 66%;
+    display: block;
+  }
+  .categoria__barra-eventos {
+    width: 33%;
+    flex-direction: column;
+  }
+}
+
+
+
+/* ? Modal ----------------- */
+/* Estilo para el modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+/* Estilo para el contenido del modal */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Estilo para el botón cerrar del modal */
+.close {
+  position: absolute;
+  top: 150px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+/* Estilo para el caption del modal */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Estilo para el caption cuando se muestra el modal */
+#modal .modal-content {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+/* Animación para el zoom del modal */
+@keyframes zoom {
+  from {
+      transform: scale(0)
+  }
+
+  to {
+      transform: scale(1)
+  }
+}

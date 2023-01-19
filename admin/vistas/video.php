@@ -119,14 +119,14 @@ if ($_SESSION['contenido']==1)
                             <!-- ══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
                             <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                 <label>Titulo Español (*):</label>
-                                <input type="text" class="form-control" name="titulo" id="titulo" maxlength="200"
+                                <input type="text" class="form-control" name="titulo" id="titulo" 
                                     placeholder="Escribe contenido aqui..." required
                                     onkeyup="this.value=NumText(this.value)">
                             </div>
 
                             <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                 <label>Titulo Ingles (*):</label>
-                                <input type="text" class="form-control" name="entitulo" id="entitulo" maxlength="200"
+                                <input type="text" class="form-control" name="entitulo" id="entitulo" 
                                     placeholder="Escribe contenido aqui..." required
                                     onkeyup="this.value=NumText(this.value)">
                             </div>
@@ -147,7 +147,7 @@ if ($_SESSION['contenido']==1)
                             <!-- ══════════════════════════════════════════════════════════════════════════════════════════════════════ -->
                             <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                 <label>Contenido Español (*):</label>
-                                <input type="text" class="form-control" name="contenido" id="contenido" maxlength="1000"
+                                <input type="text" class="form-control" name="contenido" id="contenido" 
                                     placeholder="Escribe contenido aqui..." required
                                     onkeyup="this.value=NumText(this.value)">
                             </div>
@@ -155,7 +155,7 @@ if ($_SESSION['contenido']==1)
                             <div class="form-group col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                 <label>Contenido Ingles (*):</label>
                                 <input type="text" class="form-control" name="encontenido" id="encontenido"
-                                    maxlength="1000" placeholder="Escribe contenido aqui..." required
+                                    placeholder="Escribe contenido aqui..." required
                                     onkeyup="this.value=NumText(this.value)">
                             </div>
                             <!-- ══════════════════════════════════════════════════════════════════════════════════════════════════════ -->

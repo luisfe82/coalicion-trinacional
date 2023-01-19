@@ -1,0 +1,40 @@
+.defendemos-title {
+  text-transform: uppercase;
+  color: var(--color-terciario);
+}
+.container-defendemos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    margin: 4rem 0;
+}
+.card-defendemos {
+  border-radius: 10px;
+  border: 1px solid var(--color-secundario);
+  margin: 2rem 0;
+  box-shadow: 0px 0px 20px var(--color-terciario);
+}
+.card-defendemos__header {
+  background: #f0f1f2;
+  width: 100%;
+  padding: 1rem;
+  margin: 0;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: var(--color-terciario); 
+}
+.card-defendemos__body {
+  padding: 1rem;
+  text-align: justify;
+}
+.ico-def{
+  width: 15px;
+  height: 15px;
+}
+.defendemos-subtitle{
+  border-bottom: 2px dotted;
+  padding-bottom: 1rem; 
+  color: var(--color-terciario);
+  text-transform: uppercase;
+}

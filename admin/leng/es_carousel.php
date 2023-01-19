@@ -2,6 +2,21 @@
 $carousel= array(
         1=>array(
             'id' => '1',
+            'fecha' => '2022-11-09',
+            'categoria' => 'Acciones',
+            'titulo' => 'Huelga de maestros y maestras en Ontario, Canadá.',
+            'barra1' => 'Huelga de maestros y maestras en Ontario, Canadá.',
+            'barra2' => 'Me complace brindarles una actualización sobre la situación en Ontario, Canadá, con respecto a la protesta política',
+            'autor' => 'Coalición trinacional',
+            'pais' => 'México',
+            'contcorto' => 'Me complace brindarles una actualizaci&oacute;n sobre la situaci&oacute;n en Ontario, Canad&aacute;, con respecto a la protesta pol&iacute;tica de nuestros 55.000 compa&ntilde;eras y compa&ntilde;eros trabajadores de la educaci&oacute;n en el Sindicato Canadiense de Empleados P&uacute;blicos (CUPE).',
+            'contlargo' => '<p style="text-align: justify;"><span>&nbsp; &nbsp; &nbsp;Me complace brindarles una actualizaci&oacute;n sobre la situaci&oacute;n en Ontario, Canad&aacute;, con respecto a la protesta pol&iacute;tica de nuestros 55.000 compa&ntilde;eras y compa&ntilde;eros trabajadores de la educaci&oacute;n en el Sindicato Canadiense de Empleados P&uacute;blicos (CUPE). Estos miembros de CUPE incluyen asistentes educativos, custodios, trabajadores con infantes y ni&ntilde;os, personal de oficina, t&eacute;cnicos, pat&oacute;logos del habla y lenguaje, </span><span><a tabindex="-1"></a></span><span>monitores de cafeter&iacute;a y muchos otros que conforman el equipo educativo.</span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&id=1DN_pnu6cIldo4SobYqfg0DjwkiPSEbl8" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; &nbsp;Como informamos la semana pasada, el gobierno aprob&oacute; una ley, conocida como &ldquo;Proyecto de Ley 28 - Ley para Mantener a los Estudiantes en Clase&rdquo;, que impuso unilateralmente un contrato a los miembros de CUPE, les quit&oacute; el derecho a la huelga e invoc&oacute; la cl&aacute;usula no obstante, un poder constitucional que permite que los gobierno anule partes de nuestra Carta de Derechos y Libertades por un per&iacute;odo de cinco a&ntilde;os. A pesar de esta medida, CUPE realiz&oacute; una protesta pol&iacute;tica el viernes y nuevamente el lunes. CUPE estaba en una posici&oacute;n de huelga LEGAL hasta que el gobierno aprob&oacute; la Ley.</span></p><p style="text-align: justify;"><span>&nbsp; &nbsp;Ayer por la ma&ntilde;ana, el Primer Ministro de Ontario, Doug Ford, y el Ministro de Educaci&oacute;n, Stephen Lecce, ofrecieron una conferencia de prensa. Anunciaron que DEROGAR&Iacute;AN el Proyecto de Ley 28 si CUPE acced&iacute;a a poner fin a su huelga y volver a la mesa de negociaci&oacute;n. El primer ministro enfrentaba una reacci&oacute;n fuerte del p&uacute;blico y los sindicatos de toda la provincia de Ontario y de todo Canad&aacute; hac&iacute;an una frente com&uacute;n para denunciar el proyecto de ley 28 y la llamada para una huelga general por parte de los sindicatos del sector p&uacute;blico y privado crec&iacute;a. CUPE obtuvo la promesa del primer ministro de Ontario de derogar el proyecto de ley 28 por escrito y m&aacute;s de 20 sindicatos del sector p&uacute;blico y privado se unieron en una conferencia de prensa m&aacute;s tarde en la ma&ntilde;ana para decir que regresar&iacute;an al trabajo y a la mesa de negociaciones.</span></p><p style="text-align: justify;"><span><img src="http://drive.google.com/uc?export=view&amp;id=1hFoehTERE4cVMtWN5g2Jn_DEnf9KCDSv" alt="luchas" width="100%" height="100%" caption="false" /></span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; El intento de mano dura del gobierno de Ontario de forzar un contrato y eliminar el derecho a la huelga de los trabajadores de CUPE fracas&oacute;. &iexcl;Mostr&oacute; a todos los gobiernos de Canad&aacute; que cuando atacas a uno de nosotros, nos atacas a todos! Predomin&oacute; el poder de la solidaridad obrera. Sin embargo, nos sigue preocupando que un gobierno tome tal medida contra las y los trabajadores, especialmente los trabajadores de la educaci&oacute;n que se encuentran entre las personas peor pagadas que trabajan en el sistema educativo. OSSTF/FEESO representa a unos 21 000 trabajadores de la educaci&oacute;n, adem&aacute;s de m&aacute;s de 40 000 maestras y maestros en Ontario.</span></p><p style="text-align: justify;"><span>&nbsp; &nbsp; Nuestras negociaciones contin&uacute;an con el gobierno y nuestro sindicato no ha tomado un voto de huelga de los miembros todav&iacute;a. Ahora sabemos que todos los trabajadores nos respaldan, y agradezco a todos en la Coalici&oacute;n Trinacional por su apoyo y preparaci&oacute;n para actuar en nombre de nuestros compa&ntilde;eros de CUPE.</span></p>',
+            'imagen' => '1668026954.jpg',
+            'imagenart' => '1668026954.jpg',
+            'imagenlat' => '1668026954.jpg',
+        ),
+        2=>array(
+            'id' => '2',
             'fecha' => '2022-08-05',
             'categoria' => 'Conferencias',
             'titulo' => 'XV Conferencia Trinacional en Defensa de la Educación Pública',
@@ -15,8 +30,8 @@ $carousel= array(
             'imagenart' => '1663290889.jpg',
             'imagenlat' => '1663290889.jpg',
         ),
-        2=>array(
-            'id' => '2',
+        3=>array(
+            'id' => '3',
             'fecha' => '2022-08-01',
             'categoria' => 'Conferencias',
             'titulo' => 'Conferencia Nacional de la Sección Mexicana de la Coalición Trinacional en Defensa de la Educación Pública.',
@@ -27,23 +42,8 @@ $carousel= array(
             'contcorto' => 'A las organizaciones sindicales, a los profesores, investigadores, estudiantes, activistas e interesados en defensa de la educación pública como un derecho social a participar en la Conferencia Nacional en Defensa de la Educación Pública 2022,se llevará a cabo del viernes 9 al sábado 10 de septiembre 2022',
             'contlargo' => '<p class="display-6">Hacia la XV Conferencia Trinacional (México, Estados Unidos, Canadá).</p><br>        <p class="lead">        &nbsp;&nbsp;Los sistemas educativos en el mundo han sufrido profundos estragos a consecuencia del cierre de escuelas y el confinamiento producto del COVID-19. Para muchos estudiantes no sólo representó una interrupción temporal en su educación sino un final abrupto para la misma, al incorporarse al trabajo, perder a sus padres o tutores o simplemente no tener las condiciones suficientes para ponerse al corriente en sus aprendizajes. Esta situación ha transgredido el tejido social y educativo afectando a la educación pública en el mundo, y la educación en México no ha sido la excepción.         <br><br>        &nbsp;&nbsp;Mientras tanto los trabajadores de la educación sufrieron transformaciones múltiples en sus condiciones de trabajo y; su práctica docente y profesional, mientras que el aprendizaje en línea exacerbó las desigualdades en educación. Nuestro gobierno no contaba con las políticas, la infraestructura ni los recursos necesarios para desarrollar el aprendizaje en línea de manera que se garantizara que todos los niños y las niñas, jóvenes y universitarios pudieran participar en igualdad de condiciones.          <br><br>        &nbsp;&nbsp;Poco a poco comienza a estabilizarse la pandemia y, en consecuencia, comienza la reapertura de las escuelas y centros educativos a diferentes niveles, no obstante, esta reapertura no deshará el daño provocado en la educación, ni garantizará que todos los niños y jóvenes regresen a la escuela. Puesto que, muchos problemas que observamos hoy en el sector educativo son preexistentes a ella; la vulnerabilidad a la que se enfrentan los niños, familias y comunidades de bajos ingresos, la desigual cobertura en educación, la discriminación y exclusión por raza, clase y género, la precariedad salarial y de condiciones de trabajo de los docentes, entre muchos otros aspectos que durante años hemos denunciado desde la Coalición Trinacional en Defensa de la Educación Pública.        &nbsp;&nbsp;Ante este panorama consideramos necesaria una reflexión que nos permita identificar cuáles son los estragos que la pandemia ha ocasionado en la educación pública en México, así como identificar las acciones indispensables para superar los problemas provocados por ella e identificar las alternativas para reconstruir a las comunidades educativas que han sido afectadas por el distanciamiento social y el auto-centramiento provocado por el confinamiento; al mismo tiempo, necesitamos recuperar las demandas en defensa de la educación pública que apuntan a exigir al gobierno mexicano el cumplimiento de sus responsabilidades como garante del derecho a la educación; por ello:           <br><br>        </p>        <p class="display-6"><b>Convocamos.</b></p><br>        <p class="lead">        &nbsp;&nbsp;A las organizaciones sindicales, a los profesores, investigadores, estudiantes, activistas e interesados en',
             'imagen' => '1663776746.png',
-            'imagenart' => '1663776746.png',
-            'imagenlat' => '1663776746.png',
-        ),
-        3=>array(
-            'id' => '3',
-            'fecha' => '2022-07-28',
-            'categoria' => 'Conferencias',
-            'titulo' => 'Coalición Trinacional en Defensa de la Educación da a conocer folleto en la ANR de la CNTE',
-            'barra1' => 'Coalición Trinacional en Defensa de la Educación',
-            'barra2' => 'Da a conocer folleto en la ANR de la CNTE',
-            'autor' => 'Coalición trinacional',
-            'pais' => 'México',
-            'contcorto' => 'folleto "Entre transformaciones y continuidades en el derecho a la educación pública en tiempos de la #4T"',
-            'contlargo' => '<p class="lead">"Entre transformaciones y continuidades en el derecho a la educación pública en tiempos de la #4T"<br>        &nbsp;&nbsp;Una comisión de la sección mexicana de la Coalición Trinacional en Defensa de la Educación Pública se hizo presente durante la Asamblea Nacional Representativa de la CNTE, para dar un saludo a los trabajos y compartir el folleto "Entre transformaciones y continuidades en el derecho a la educación pública en tiempos de la #4T". En donde se han recopilado diversos materiales de reflexión y balance político sobre las diversas problemáticas presentes en el sector educativo.</p>',
-            'imagen' => '1665036947.jpg',
-            'imagenart' => '1665036947.jpg',
-            'imagenlat' => '1665037057.jpg',
+            'imagenart' => '1663776746.jpg',
+            'imagenlat' => '1663776746.jpg',
         ),
 )
 ?>

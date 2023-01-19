@@ -1,0 +1,108 @@
+.videos {
+    margin: 2rem 0;
+}
+.videos__title {
+    border-bottom: 1px dotted;
+    color: var(--color-primario);
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 0;
+    padding-bottom: 8px;
+    margin: 0;
+}
+.container-videos {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+}
+.videos__box-video {
+    padding: 0.5rem;
+    background: var(--color-primario);
+    border-radius: 1rem;
+    box-shadow: 7px 7px 10px var(--color-terciario);
+}
+.box-video {
+    width: 100%;
+    height: 16.66rem;
+}
+.videos__box-texto {
+    width: 100%;
+}
+.box-texto__title h2 {
+    font-size: 2rem;
+    margin: 0;
+    height: 5rem;
+    overflow: hidden;
+    color: var(--color-terciario);
+}
+.box-texto__contenido {
+    font-size: 1.5rem;
+    text-align: justify;
+    height: 9rem;
+    overflow: hidden;
+}
+.box-texto__fecha {
+    font-size: 1rem;
+    width: 100%;
+    text-align: end;
+}
+.box-texto__compartir-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-top: 1px dotted;
+}
+.box-texto__compartir-botones {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem 0;
+}
+
+.prev-carouselVideos,
+.next-carouselVideos{
+    position: absolute;
+    top: 25rem;
+    width: auto;
+    padding: 0.1rem 1rem;
+    margin-top: -50px;
+    color: var(--color-secundario);
+    font-weight: bold;
+    font-size: 12px;
+    background: var(--color-terciario);
+    border-radius: 1rem;
+}
+.next-carouselVideos{
+    right: 0rem;
+    border-radius: 1rem;
+}
+.prev-carouselVideos:hover,
+.next-carouselVideos:hover{
+    background: var(--color-secundario);
+    color: var(--color-primario);
+}
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px) {
+    .box-video {
+        width: 32.5rem;
+        height: 17.96rem;
+    }
+    .next-carouselVideos {
+        right: 0rem;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .container-videos {
+        flex-direction: row;
+    }
+    .box-video {
+        width: 36rem;
+        height: 19.98rem;
+    }
+    .videos__box-texto {
+        padding-right: 1.5rem;
+    }
+    .next-carouselVideos {
+        right: 37rem;
+    }
+}

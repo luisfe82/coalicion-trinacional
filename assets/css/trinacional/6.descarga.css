@@ -1,0 +1,37 @@
+.download-title{
+    text-transform: uppercase;
+    color: var(--color-terciario);
+    font-weight: 500;
+    border-bottom: 3px dotted;
+    padding-bottom: 1rem;
+}
+.download-title span{
+    color: var(--color-primario);
+    text-transform: capitalize;
+}
+
+.download-box{
+    border: 4px double var(--color-terciario);
+    padding: 1rem;
+    margin: 1rem 0;    
+}
+.download-box__registgro{
+    font-weight: 500;
+    margin: 1rem;
+}
+.download-box__registgro span,
+.download-box__registgro a h4{
+    color: var(--color-terciario);
+}
+
+/*! MediaQuery ----- */
+
+@media screen and (min-width:768px) {
+    .container-download{
+        display: flex;
+        justify-content: space-between;
+    }
+    .download-box {
+        width: 48%;
+    }
+}

@@ -1,0 +1,22 @@
+.demanda-title{
+    border-bottom: 2px dotted;
+    padding-bottom: 0.5rem;
+}
+.demanda-box {
+    padding: 0;
+}
+.demanda-box li {
+    text-align: justify;
+    list-style: inside;
+    list-style-type: disclosure-closed;
+}
+
+@media screen and (min-width:768px) {
+    .container-demanda {
+        display: flex;
+        justify-content: space-between;
+    }
+    .demanda-box {
+        width: 48%;
+    }
+}

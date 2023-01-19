@@ -7,7 +7,7 @@ $publica= array(
             'autor' => 'Coalición trinacional',
             'pais' => 'México',
             'contenido' => 'Conferencia Trinacional Nacional',
-            'imagen' => '1663804601.png',
+            'imagen' => '1663804601.jpg',
             'link' => 'https://drive.google.com/file/d/1AKmxEVBndTXi5g9Df0TdT-btxVsmPbaW/view?usp=sharing',
             'archivo' => '',
         ),

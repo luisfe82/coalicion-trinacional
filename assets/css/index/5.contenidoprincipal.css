@@ -1,0 +1,32 @@
+.contenidoPrincipal{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.area-noticias{
+    width: 100%;
+    height: auto;
+}
+.barra-eventos{
+    width: 100%;
+    height: auto;
+}
+
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px){   
+    .area-noticias,
+    .barra-eventos{
+        width: 49%;
+    }
+}
+
+@media screen and (min-width:992px){
+    .area-noticias{
+        width: calc(98% - 35rem);
+    }
+    .barra-eventos{
+        width: 35rem;
+    }
+}

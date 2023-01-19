@@ -2,6 +2,7 @@
 session_start();
 
 $id = (isset($_SESSION['id'])) ? $_SESSION['id'] : "";
+$idcorreo = (isset($_SESSION['idcorreo'])) ? $_SESSION['idcorreo'] : "";
 $texto = (isset($_SESSION['texto'])) ? $_SESSION['texto'] : "";
 
 
@@ -22,44 +23,27 @@ require_once "../admin/leng/" . $_SESSION['lang'] . "_articulo.php";
 require_once "../admin/leng/" . $_SESSION['lang'] . "_video.php";	
 require_once "../admin/leng/" . $_SESSION['lang'] . "_history.php";	
 require_once "../admin/leng/" . $_SESSION['lang'] . "_publica.php";	
+require_once "../admin/leng/" . $_SESSION['lang'] . "_galeria.php";	
 
 $solida=$confe=$foro=$campania=$colabora=$acciones=array();
 
 foreach ($articulo as $datos){
-    if ($datos['categoria'] == "Acciones") {
+    if ($datos['categoria'] == "Acciones" || $datos['categoria'] == "Actions") {
         array_push($acciones, $datos['id']);
     }
-    if ($datos['categoria'] == "Colaboraciones") {
+    if ($datos['categoria'] == "Colaboraciones" || $datos['categoria'] == "Collaborations") {
         array_push($colabora, $datos['id']);
     }
-    if ($datos['categoria'] == "Campañas") {
+    if ($datos['categoria'] == "Campañas" || $datos['categoria'] == "Bells") {
         array_push($campania, $datos['id']);
     }
-    if ($datos['categoria'] == "Foros") {
+    if ($datos['categoria'] == "Foros" || $datos['categoria'] == "Forums") {
         array_push($foro, $datos['id']);
     }
-    if ($datos['categoria'] == "Conferencias") {
+    if ($datos['categoria'] == "Conferencias" || $datos['categoria'] == "Conferences") {
         array_push($confe, $datos['id']);
     }
-    if ($datos['categoria'] == "Solidaridad") {
+    if ($datos['categoria'] == "Solidaridad" || $datos['categoria'] == "Solidarity") {
         array_push($solida, $datos['id']);
     }
 }
-// echo "acciones Nº[".count($acciones) ."] : ";
-// var_dump($acciones);
-// echo "<br>";
-// echo "colabora Nº[".count($colabora) ."] : ";
-// var_dump($colabora);
-// echo "<br>";
-// echo "campania Nº[".count($campania) ."] : ";
-// var_dump($campania);
-// echo "<br>";
-// echo "foro Nº[".count($foro) ."] : ";
-// var_dump($foro);
-// echo "<br>";
-// echo "confe Nº[".count($confe) ."] : ";
-// var_dump($confe);
-// echo "<br>";
-// echo "solida Nº[".count($solida) ."] : ";
-// var_dump($solida);
-?>

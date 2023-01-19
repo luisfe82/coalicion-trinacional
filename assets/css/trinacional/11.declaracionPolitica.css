@@ -1,0 +1,37 @@
+.declaracionPolitica{
+    background: var(--color-secundario);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.declaracionPolitica-title{
+    text-transform: uppercase;
+    color: var(--color-terciario);
+    font-weight: 500;
+    border-bottom: 3px dotted;
+    padding-bottom: 1rem;
+}
+.documento__subtitle{
+    text-align: end;
+    font-style: oblique;
+}
+.documento__titleTwo{
+    text-align: center;
+    font-weight: 500;
+}
+.documento__subtitleTwo{
+    text-align: center;
+}
+.documento__boton{
+    margin-top: 4rem;
+    text-align: end !important;
+}
+.declaracionPolitica__documento p{
+    text-align: justify;
+    color: var(--color-primario);
+}
+.declaracionPolitica__documento a{
+    color: var(--color-secundario);
+    background: var(--color-terciario);
+    padding: 1rem;
+    border-radius: 1rem;
+}

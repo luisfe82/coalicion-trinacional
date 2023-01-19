@@ -1,0 +1,36 @@
+/* CSS para dar estilo al menú de pestañas */
+.tabs-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .tab-buttons {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .tab-button {
+    flex: 1;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .tab-button.active {
+    background-color: #ddd !important;
+    color: var(--color-primario) !important;
+  }
+  
+  /* .tab-panels {
+    padding: 10px;
+  } */
+  
+  .tab-panel {
+    display: none;
+  }
+  
+  .tab-panel.active {
+    display: block;
+  }

@@ -1,0 +1,65 @@
+footer{
+    background: var(--color-primario);
+    width: 100%;
+}
+.footer__title{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px dotted;
+    padding-bottom: 8px;
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--color-secundario);
+    text-align: center;
+    font-family: 'Roboto Condensed';
+}
+.footer__box{
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom:2.5rem;
+    text-align: center;
+    flex-wrap: wrap;    
+}
+.footer__box-email{
+    color: var(--color-secundario);
+    font-family: 'Roboto Condensed';
+    width: 100%;
+}
+.footer__box-email p{
+    margin: 0;
+}
+.footer__box-email:hover p a{
+    color: var(--color-secundario);
+}
+.footer__box-email__texto{
+    color: var(--gris);
+}
+.footer__title-final{
+    text-align: center;
+    margin: 0.5rem 0 0 0;
+}
+.footer__title-final small{    
+    color:var(--gris);
+}
+
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px) {
+    .footer__box-email{
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .footer__box-email:nth-child(1),
+    .footer__box-email:nth-child(2){
+        width: 22rem;
+    }
+    .footer__box-email:nth-child(3){
+        width: 25rem;
+    }
+    .footer__box-email:nth-child(4){
+        width: 26rem;
+    }
+}

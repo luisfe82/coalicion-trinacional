@@ -1,0 +1,9 @@
+.final-title{
+    font-weight: 500;
+    font-size: 3rem;
+    border-bottom: 3px dotted;
+    border-top: 3px dotted;
+    padding: 1rem 0;
+    text-align: center;
+    color: var(--color-terciario);
+}

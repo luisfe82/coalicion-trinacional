@@ -1,0 +1,105 @@
+.container-noticias{
+    display: flex;
+    flex-wrap: wrap;
+}
+.noticias__title{
+    border-bottom: 1px dotted;
+    color: var(--color-primario);
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 0;
+    padding-bottom: 8px;
+    margin: 0;
+}
+.container-noticias{
+    display: flex;
+}
+.noticias-principal__box{
+    width: 100%;
+    display: flex;
+    margin: 1rem 0;
+    gap: 1rem;
+    flex-direction: column;
+    position: relative;
+}
+.noticias-principal__texto{
+    background: var(--color-terciario);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.noticias-principal__title h2{
+    font-size: 2rem;
+    color: var(--color-secundario);
+    margin: 0 0.5rem 0.5rem 0;
+}
+.noticias-principal__descripcion{
+    font-size: 1.4rem;
+    text-align: justify;
+    color: var(--color-secundario);
+}
+.noticias-principal__boton{
+    width: 100%;
+    text-align: end;
+}
+.noticias__boton{
+    background: var(--color-secundario);
+    padding: 0.2rem 1rem;
+    border-radius: 0.4rem;
+}
+.noticias__boton:hover{
+    background: var(--color-primario);
+    color: var(--color-secundario);
+}
+.noticias-principal__imagen{
+    max-width: 20rem;
+    height: 22rem;
+}
+.no-imagen{
+    display: none;
+}
+.img-float{
+    float: right;
+    width: 14rem;
+    margin-left: 0.8rem;
+    height: 14rem;
+}
+
+/*?------------------------------- MediaQuery ------------------------ */
+
+@media screen and (min-width:768px){
+      
+}
+
+@media screen and (min-width:992px){
+    .noticias-principal__box{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .noticias-principal__texto{
+        height: 24.8rem;
+        width: 48rem;
+        padding: 3rem;
+    }
+    .noticias-principal__title h2{
+        font-size: 2.5rem;
+    }
+    .no-imagen{
+        display: block;
+    }
+    .img-float{
+        display: none;
+    }
+    .noticias-principal__imagen img{
+        height: 24.8rem !important;
+    }
+    .noticias-principal__title h2{
+        height: 6rem;
+        overflow: hidden;
+    }
+    .noticias-principal__descripcion{
+        height: 6.3rem;
+        overflow: hidden;
+    }
+}

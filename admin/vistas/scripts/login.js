@@ -5,7 +5,7 @@ $("#frmAcceso").on("submit",function(e)
     clavea=$("#clavea").val();
 
     $.post("../ajax/usuario.php?op=verificar",
-        {logina:logina,clavea:clavea},
+        {"logina":logina,"clavea":clavea},
         function(data)
     {
         if (data!="null")

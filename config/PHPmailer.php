@@ -13,8 +13,7 @@ if (isset($_POST['submit'])) {
     //Creamos cabecera.
     $headers = 'From' . " " . $email . "\r\n";
     $headers .= "Content-type: text/html; charset=utf-8";
-
-
+    
     //Componemos cuerpo correo.
     $msjCorreo = "Nombre: " . $nombre;
     $msjCorreo .= "\r\n";
@@ -26,23 +25,17 @@ if (isset($_POST['submit'])) {
     $msjCorreo .= "\r\n";
 
     if (mail($para, $subject, $msjCorreo, $headers)) {
-?>
+    ?>
         <script languaje="javascript" type="text/javascript">
-            document.addEventListener("DOMContentLoaded", function() {
-                var myModal = new bootstrap.Modal(document.getElementById("correcto"));
-                myModal.show();
-            });
+            alert("Tu mensaje a sido enviado correctamente");
         </script>
     <?php
     } else {
     ?>
         <script languaje="javascript" type="text/javascript">
-            document.addEventListener("DOMContentLoaded", function() {
-                var myModal = new bootstrap.Modal(document.getElementById("error"));
-                myModal.show();
-            });
+            alert("Error, no se ha podido enviar el correo, comunicate con el administrador de la pagina");
         </script>
-<?php
+    <?php
+        }
     }
-}
-?>
+    ?>
